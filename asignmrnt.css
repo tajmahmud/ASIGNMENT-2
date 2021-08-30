@@ -1,0 +1,65 @@
+body{
+    background: #fff;
+    margin: 0%;
+}
+.logo{
+    text-align:center;
+    background-color: #2980b9;
+}
+.menue{
+    float: right;
+    width: 100%;
+    margin-top: 15px;
+}
+.menue ul{
+    text-align: center;
+}
+.menue ul li{
+    display: inline-block;
+    margin-left: 30px;
+
+}
+.menue ul li a{
+    display: inline-block;
+    text-decoration: none;
+    color: red;
+    border: 2px solid black;
+    padding: 30px;
+    margin: 32px;
+    background-color: #fff;
+}
+.menue ul li a:hover{
+    color: black;
+}
+.marque{
+background-color: #34495e;
+color: chartreuse;
+}
+.comon-blog{
+    border: 3px solid red;
+    border-radius: 10px;
+    width:30%;
+    margin: 10px;
+    float: left;
+    color: white;
+    background-color: #353b48;
+
+}
+/* .comon-blog img{
+    display: inline-block;
+    text-align: center;
+    padding: 50px 10px;
+} */
+.comon-blog h2{
+    text-align: center;
+
+}
+ .blog-2 p{
+    word-spacing: 15px;
+line-he/*ight: 35px; */
+}
+.footer{
+    margin-top: 65%;
+    
+    text-align: center;
+}
